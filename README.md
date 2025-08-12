@@ -5,9 +5,7 @@ I’m **Colin Kirby**, a recent **Computer Engineering** grad (UCF) building at 
 
 ## 🛠️ What I’m building
 - **Centi** — a modern personal-finance app that connects bank accounts (Plaid), supports CSV imports, and turns activity into clear insights and a simple **Centi Score**.  
-  _Stack:_ React · FastAPI · PostgreSQL · OAuth
 - **My Portfolio Website** — an interactive showcase for projects plus a small CSS/UI cheat sheet I use to design faster.  
-  _Stack:_ React · Tailwind · Vite
 
 ## ✅ Selected projects (past work)
 - **SentimentTrader** — pure-Python pipeline that pulls Reddit chatter, runs sentiment, and generates next-day stock-movement signals.  
