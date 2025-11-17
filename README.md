@@ -1,11 +1,11 @@
 # Hey!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="26" />
 
 ## 🔎 Lil About Me
-I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves building projects and messing with design. Right now I’m learning by doing and looking for software roles around full-stack so I can keep shipping things that are actually useful.
+I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves building projects and tinkering with design. Right now I’m learning by doing and looking for full-stack software roles so I can keep shipping things that are actually useful.
 
 ## 🛠️ What I’m building
-- **My Portfolio Website** — cool showcase of my background, wanted to be able to show recruiters who I am without a boring white piece of paper.
-- **SentimentTrader** - this is one of my favorite projects, but it needs a lot of work, basically, reads social media, helps me invest.
+- **My Portfolio Website** - A space to show my background and projects so recruiters get more than a plain white PDF.
+- **SentimentTrader** - A social sentiment project that reads platforms like Reddit to surface tickers and patterns for investing experiments.
 
 ---
 
@@ -38,11 +38,12 @@ I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves
 
 ## 🎶 Outside Tech
 I’m big on consistent growth and staying active outside the editor:  
-- 🎸 **Music:** I love playing guitar & piano, been addicted to it since I picked it up
+
+- 🎸 **Music:** I love playing guitar and piano, been hooked since I picked them up  
 - 🏋️ **Active:** gym, 🏀 basketball, 🏈 football, 🏌️‍♂️ golf, 🚣 rowing  
-- 🗣️ **Learning:** here are a few things I’m diving into right now — **Spanish**, **music theory & production**, and of course **data structures & algorithms**
-- ✍️ **Art & Design:** writing, doodling, design, any creative outlet really
-- 🎧 **Mindset:** self-improvement & mental fitness podcasts (Chris Williamson, Mark Manson, Andrew Huberman)
+- 🗣️ **Learning:** right now that means **Spanish**, **music theory and production**, and **data structures and algorithms**  
+- ✍️ **Art & Design:** writing, doodling, design, any creative outlet really  
+- 🎧 **Mindset:** self-improvement and mental fitness podcasts (Chris Williamson, Mark Manson, Andrew Huberman)
 
 ---
 
@@ -50,6 +51,6 @@ I’m big on consistent growth and staying active outside the editor:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/)
 [![Email](https://img.shields.io/badge/Email-kirbycolin26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbycolin26@gmail.com)
 [![Projects](https://img.shields.io/badge/Projects-LinkedIn_Projects-4B8BBE?style=for-the-badge&logo=readme&logoColor=white)](https://www.linkedin.com/in/colinwkirby/details/projects/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-colinkirby.dev-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://colinkirby.dev)
 
-> Open to SWE / full-stack / ML-leaning roles and collaborations. If something here sparks an idea, let’s chat.
+> Open to SWE, full-stack, and ML-leaning roles and collaborations. If something here sparks an idea, feel free to reach out.
