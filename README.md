@@ -50,7 +50,6 @@ I’m big on consistent growth and staying active outside the editor:
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/)
 [![Email](https://img.shields.io/badge/Email-kirbycolin26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbycolin26@gmail.com)
-[![Projects](https://img.shields.io/badge/Projects-LinkedIn_Projects-4B8BBE?style=for-the-badge&logo=readme&logoColor=white)](https://www.linkedin.com/in/colinwkirby/details/projects/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-colinkirby.dev-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://colinkirby.dev)
 
 > Open to SWE, full-stack, and ML-leaning roles and collaborations. If something here sparks an idea, feel free to reach out.
