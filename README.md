@@ -1,11 +1,11 @@
 # Hey!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="26" />
 
-## 🔎 Lil About Me
+## Lil About Me
 I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves building projects and tinkering with design. Right now I’m learning by doing and looking for full-stack software roles so I can keep shipping things that are actually useful.
 
-## 🛠️ What I’m building
-- **My Portfolio Website** - A space to show my background and projects so recruiters get more than a plain white PDF.
-- **SentimentTrader** - A social sentiment project that reads platforms like Reddit to surface tickers and patterns for investing experiments.
+## What I’m building
+- **Taylor.io** - Resume tailoring site where users can provide job descriptions and tailor their resume to fit the ATS screening better.
+- **SentimentTrader** - ETL pipeline for parsing reddit sentiment and generating trading signals.
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/)
@@ -26,7 +26,6 @@ I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1d3557?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -45,4 +44,4 @@ I’m big on consistent growth and staying active outside the editor:
 
 ---
 
-> Open to SWE, full-stack, and ML-leaning roles and collaborations. If something here sparks an idea, feel free to reach out.
+> Open to SWE, full-stack, and ML-learning roles and collaborations. If something here sparks an idea, feel free to reach out.
