@@ -9,7 +9,8 @@ i try to keep them organized but looking through you'll see its sometimes a stru
 but i have a couple of others that i'm planning on moving forth with later :
 
 - **taylor.io** - resume tailoring site where users store a dict of info to generate tailored resumes based on job descriptions
-- **centi.dev** - personal finance manager for tracking spending (you can check it out thus far -> <u>https://centi.dev</u>)
+- **centi.dev** - personal finance manager for tracking spending ( you can check it out thus far -> <u>https://centi.dev</u> )
+- **unity portfolio** - extension of current portfolio that lets users explore my resume in a 3d environment
 
 ## here's where you can find me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/)
