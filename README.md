@@ -1,4 +1,4 @@
-# Hey!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="26" />
+# Hey!! <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd0ZWptMW1ndGxvc2czcml5MnF1a3lrZGs0Nmk5NWk3eXhndHF2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DC5qyqaxE3jRPMiNPe/giphy.gif)" width="26" height="26" />
 
 ## Lil About Me
 I’m **Colin Kirby**, a recent **Computer Engineering** grad from UCF who loves building projects and tinkering with design. Right now I’m learning by doing and looking for full-stack software roles so I can keep shipping things that are actually useful.
