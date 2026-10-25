@@ -43,8 +43,8 @@ i've also been building **casa**, a protocol for running AI agents on real clien
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,py,fastapi,postgres,supabase,pytorch,vercel,figma&theme=dark&perline=12">
-    <img alt="typescript, next.js, react, tailwind, node, python, fastapi, postgres, supabase, pytorch, vercel, figma" src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,py,fastapi,postgres,supabase,pytorch,vercel,figma&theme=light&perline=12">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cpy%2Cfastapi%2Cpostgres%2Csupabase%2Cpytorch%2Cvercel%2Cfigma&theme=dark&perline=12">
+    <img alt="typescript, next.js, react, tailwind, node, python, fastapi, postgres, supabase, pytorch, vercel, figma" src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cpy%2Cfastapi%2Cpostgres%2Csupabase%2Cpytorch%2Cvercel%2Cfigma&theme=light&perline=12">
   </picture>
 </a>
 
