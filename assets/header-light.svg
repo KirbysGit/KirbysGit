@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Colin Kirby — CK Works — websites and digital systems, Orlando FL">
+  <rect width="1200" height="300" fill="#FAF7F0"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#2F5B3F"/>
+
+  <g stroke="#DDD6C8" stroke-width="1">
+    <line x1="80" y1="96" x2="1120" y2="96"/>
+    <line x1="80" y1="232" x2="1120" y2="232"/>
+  </g>
+
+  <g fill="#2F5B3F" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="7">
+    <text x="80" y="74">CK WORKS</text>
+  </g>
+  <g fill="#5F665F" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="4" text-anchor="end">
+    <text x="1120" y="74">ORLANDO, FLORIDA</text>
+  </g>
+
+  <text x="80" y="186" fill="#1F2420" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="10">COLIN KIRBY</text>
+
+  <g fill="#5F665F" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5">
+    <text x="80" y="268">WEBSITES AND THE SYSTEMS BEHIND THEM</text>
+  </g>
+
+  <g transform="translate(1046, 150)">
+    <circle r="54" fill="none" stroke="#DDD6C8" stroke-width="1"/>
+    <circle r="54" fill="none" stroke="#2F5B3F" stroke-width="2" stroke-dasharray="120 220" transform="rotate(-54)"/>
+    <circle r="7" fill="#2F5B3F"/>
+  </g>
+</svg>

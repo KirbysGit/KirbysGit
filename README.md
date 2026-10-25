@@ -1,35 +1,66 @@
-# whats up!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="26" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KirbysGit/KirbysGit/main/assets/header-dark.svg">
+  <img alt="Colin Kirby — CK Works — websites and the systems behind them, Orlando FL" src="https://raw.githubusercontent.com/KirbysGit/KirbysGit/main/assets/header-light.svg">
+</picture>
 
-welcome to my **git** , i'm **colin kirby**, a recent CpE grad from UCF. i really love creating, and i use github as a tool to store my software / machine learning projects.
+### whats up!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24" />
 
-i try to keep them organized but looking through you'll see its sometimes a struggle. right now i'm really focusing on one thing :
+i'm colin, a computer engineer in orlando. two different things live on this page:
 
-- **sentitrader** - etl pipeline for parsing reddit sentiment and generating stock signals (i'm trying to not miss out on the next GME 😭)
+**[CK Works](#ck-works)** is the studio, that's the client work. **[the workshop](#the-workshop)** is everything i build because i want to.
 
-but i have a couple of others that i'm planning on moving forth with later :
+<br>
 
-- **taylor.io** - resume tailoring site where users store a dict of info to generate tailored resumes based on job descriptions
-- **centi.dev** - personal finance manager for tracking spending ( you can check it out thus far -> <u>https://centi.dev</u> )
-- **unity portfolio** - extension of current portfolio that lets users explore my resume in a 3d environment
+## CK Works
 
-## here's where you can find me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/)
-[![Email](https://img.shields.io/badge/Email-kirbycolin26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbycolin26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-colinkirby.dev-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://colinkirby.dev)
+i build websites and the systems behind them for small businesses. design and development, SEO and AI search visibility, accessibility, analytics and lead tracking, integrations, and sticking around after launch to keep it working.
 
-## main tools i build with : 
+mostly i just help out whatever business asks. someone comes to me with a problem on their site, i figure out how to fix it.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+most of this sits in private client repos, so the site is the real portfolio :
+
+[![CK Works](https://img.shields.io/badge/ckworks.studio-See_the_work-2F5B3F?style=for-the-badge&labelColor=1F2420)](https://www.ckworks.studio)
+
+right now i'm building a site for a salt therapy studio, and **CK Insights**, an in-house layer so i can see how my clients' sites are actually performing instead of guessing.
+
+<br>
+
+## the workshop
+
+ckworks.studio is the portfolio, polished and written up. this is the part where you can read the code.
+
+- **[centi](https://github.com/KirbysGit/financeOrganizer)** — personal finance manager built after mint shut down. plaid integration, spending breakdowns, and a custom score for how your month is actually going. live at [centi.money](https://centi.money)
+- **[sentitrader](https://github.com/KirbysGit/sentimentTrader)** — etl pipeline that parses reddit sentiment and turns it into stock signals (i'm trying to not miss out on the next GME 😭)
+- **[setlst](https://github.com/KirbysGit/SETLST)** — gym app for planning and tracking lifts
+
+older but still some of my favorites : **[securescape](https://github.com/KirbysGit/secureScapeApp)**, a portable ESP32 security system from senior design, and **[shelfvision](https://github.com/KirbysGit/shelfVision)**, a pytorch model for spotting products on crowded retail shelves.
+
+i've also been building **casa**, a protocol for running AI agents on real client work without losing track of who decided what. early, and private for now.
+
+<br>
+
+## what i build with
+
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,py,fastapi,postgres,supabase,pytorch,vercel,figma&theme=dark&perline=12">
+    <img alt="typescript, next.js, react, tailwind, node, python, fastapi, postgres, supabase, pytorch, vercel, figma" src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,py,fastapi,postgres,supabase,pytorch,vercel,figma&theme=light&perline=12">
+  </picture>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KirbysGit/KirbysGit/output/snake-dark.svg">
+  <img alt="A snake eating this year's commits" src="https://raw.githubusercontent.com/KirbysGit/KirbysGit/output/snake-light.svg">
+</picture>
+
+<br>
 
 ## outside of work
-i love self-growth!! just trying to be better day after day. i do this through : 
 
-- **music** -> i currently just play guitar and piano, practice just about everyday, would love to get into production too!
-- **being active** -> getting stronger in the gym, trying new sports like tennis, golf, skating, or just sticking to my oldies like basketball, football, volleyball
-- **learning** -> new languages (right now spanish is the focus),  studying and practicing music theory, practicing my leetcode for interviews 
-- **art** -> whether its just doodling, design ui mockups, or drawing stupid memes on my roommate's whiteboard i just love creative expression
-- **mindset** -> self-improvement podcasts and books, current favorite podcasts are chris williamson, mark manson, andrew huberman, but there's so many
+trying to get better at whatever i can. self-growth in all aspects : music and music production, guitar, piano, the gym, being an all-around athlete, learning new languages, and keeping the art and creative side balanced. i like all of it.
+
+<br>
+
+## where you can find me
+
+[![CK Works](https://img.shields.io/badge/ckworks.studio-2F5B3F?style=flat-square)](https://www.ckworks.studio) [![Portfolio](https://img.shields.io/badge/colinkirby.dev-5F665F?style=flat-square)](https://colinkirby.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2420?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colinwkirby/) [![Instagram](https://img.shields.io/badge/Instagram-1F2420?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/colin.kirby03/) [![Email](https://img.shields.io/badge/kirbycolin26%40gmail.com-1F2420?style=flat-square&logo=gmail&logoColor=white)](mailto:kirbycolin26@gmail.com)
